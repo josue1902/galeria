@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.cont1{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    border: 1px solid blue;
+}
+.cont2{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    border: 1px solid blue;
+}.cont3{
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    border: 1px solid blue;
+}
